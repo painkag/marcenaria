@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { HandleWhatsClick } from "../utils/whatssap";
+import { HandleWhatsClick } from "../utils/whatssap"; // Certifique-se de que o caminho esteja correto
 import '@fortawesome/fontawesome-free/css/all.min.css'; // Importação do Font Awesome
 
 export const Header = (props) => {
   const images = [
-    "../img/portao.jpg",
-    "../img/portao1.jpg",
-    "../img/portao2.jpg",
+    "../img/madeira3.jpg",
+    "../img/madeira4.jpg",
+    "../img/madeira2.jpg",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -33,14 +33,14 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   onClick={() => HandleWhatsClick({
-                    phoneNumber: '+5511983863420',
+                    phoneNumber: '+5511910771180',
                     message: 'Olá, gostaria de mais informações.'
                   })}
-                  href="#features"
+                  href="#header"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Entre em contato
-                </a>{" "}
+                </a>
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@ export const Header = (props) => {
         <div
           className="whatsapp-icon"
           onClick={() => HandleWhatsClick({
-            phoneNumber: '+5511983863420',
+            phoneNumber: '+5511910771180',
             message: 'Olá, gostaria de mais informações.'
           })}
         >

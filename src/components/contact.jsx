@@ -3,6 +3,8 @@ import emailjs from "emailjs-com";
 import React from "react";
 import { HandleWhatsClick } from "../utils/whatssap";
 import ImageCreators from "./ImageCreators/imageCreate";
+import 'font-awesome/css/font-awesome.min.css';
+
 
 const initialState = {
   name: "",
@@ -156,7 +158,7 @@ export const Contact = (props) => {
                       <i
                         onClick={() =>
                           HandleWhatsClick({
-                            phoneNumber: "+5511983863420",
+                            phoneNumber: "+5511910771180",
                             message: "Olá, gostaria de mais informações.",
                           })
                         }

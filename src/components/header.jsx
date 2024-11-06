@@ -4,9 +4,9 @@ import '@fortawesome/fontawesome-free/css/all.min.css'; // Importação do Font 
 
 export const Header = (props) => {
   const images = [
-    "../img/portao.jpg",
-    "../img/portao1.jpg",
-    "../img/portao2.jpg",
+    "../img/movel1.jpg",
+    "../img/movel4.jpg",
+    "../img/movel5.jpg",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -33,7 +33,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   onClick={() => HandleWhatsClick({
-                    phoneNumber: '+5511983863420',
+                    phoneNumber: '+55119000000',
                     message: 'Olá, gostaria de mais informações.'
                   })}
                   href="#features"

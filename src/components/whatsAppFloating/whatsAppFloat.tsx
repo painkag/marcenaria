@@ -6,7 +6,7 @@ export const FloatingWhatsAppButton = () => {
     <a
        href="https://api.whatsapp.com/send?phone=+1234567890"
         onClick={() => HandleWhatsClick({
-        phoneNumber: '+5511983863420',
+        phoneNumber: '+551190000000',
         message: 'Olá, gostaria de mais informações.'
       })}
       className="whatsapp-float"

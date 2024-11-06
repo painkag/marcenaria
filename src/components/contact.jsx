@@ -156,7 +156,7 @@ export const Contact = (props) => {
                       <i
                         onClick={() =>
                           HandleWhatsClick({
-                            phoneNumber: "+5511983863420",
+                            phoneNumber: "+551190000000",
                             message: "Olá, gostaria de mais informações.",
                           })
                         }

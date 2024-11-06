@@ -1,108 +1,107 @@
 {
   "Header": {
-    "title": "Bem-vindo à QUALITY",
-    "paragraph": "Portões automático e manual trabalhamos com grades corrimãopara-peito, motores e controle, manutenção, puxadores,serviços de serralheria em geral. Venha conhecer nosso serviço, trabalhamos com material 100% galvanizado. Facilitamos seu pagamento em até 10 vezes sem juros no cartão."
+    "title": "Bem-vindo à MÓVEIS PARANÁ",
+    "paragraph": "Oferecemos uma ampla variedade de móveis, desde peças sob medida até soluções completas para sua casa ou escritório. Venha conhecer nossos produtos, todos feitos com materiais de alta qualidade e com design exclusivo. Facilitamos seu pagamento em até 10 vezes sem juros no cartão."
   },
   "About": {
-    "paragraph": "Na nossa empresa, oferecemos serviços de serralheria com excelência e dedicação. Com uma equipe especializada e equipamentos de última geração, garantimos a qualidade e segurança do seu portão. Estamos comprometidos em proporcionar um atendimento confiável e transparente, sempre buscando a sua satisfação",
+    "paragraph": "Na Móveis Paraná, temos um compromisso com a excelência e a satisfação do cliente. Nossa equipe especializada utiliza técnicas modernas de fabricação para garantir a qualidade e durabilidade de nossos móveis. Estamos aqui para oferecer um atendimento transparente e confiável, sempre focando nas suas necessidades.",
     "Why": [
-      "Experiência",
-      "Equipe Especializada",
-      "Transparência: Clareza",
+      "Experiência no setor",
+      "Equipe Especializada em Móveis",
+      "Transparência e Clareza",
       "Compromisso com a Qualidade"
     ],
     "Why2": [
-      "Tecnologia Avançada",
-      "Serviço Rápido",
-      "Preços Justos",
-      "Atendimento Amigávelr"
+      "Tecnologia Avançada na Fabricação",
+      "Serviço Rápido e Eficiente",
+      "Preços Justos e Competitivos",
+      "Atendimento Amigável e Personalizado"
     ]
   },
   "Gallery": [
     {
-      "title": "Soluções Completas para Seu Portão",
-      "largeImage": "img/porta3.jpg",
-      "smallImage": "img/portao3.jpg"
+      "title": "Soluções Completas para Sua Casa",
+      "largeImage": "img/movel.jpg",
+      "smallImage": "img/movel.jpg"
     },
     {
-      "title": "Soluções Completas para Seu Portão",
-      "largeImage": "img/portao5.jpg",
-      "smallImage": "img/portao5.jpg"
+      "title": "Móveis Planejados para Todos os Ambientes",
+      "largeImage": "img/movel1.jpg",
+      "smallImage": "img/movel1.jpg"
     },
     {
-      "title": "Soluções Completas para Seu Portão",
-      "largeImage": "img/portao12.jpg",
-      "smallImage": "img/portao12.jpg"
+      "title": "Estilos que Transformam Seu Espaço",
+      "largeImage": "img/movel2.jpg",
+      "smallImage": "img/movel2.jpeg"
     }
   ],
- "Services": [
-   {
+  "Services": [
+    {
       "icon": "fa fa-wrench",
-      "name": "Instalação de Portões",
-      "text": "Instalamos e trocamos portões para segurança e eficiência."
+      "name": "Montagem de Móveis",
+      "text": "Realizamos a montagem de móveis com eficiência e segurança."
     },
     {
       "icon": "fa fa-wrench",
-      "name": "Reparo de Portões",
-      "text": "Reparamos portões para melhor desempenho e durabilidade."
+      "name": "Reparo de Móveis",
+      "text": "Reparamos móveis danificados para restaurar sua beleza e funcionalidade."
     },
     {
       "icon": "fa fa-wrench",
-      "name":"Serviço de Ajuste e Lubrificação de Portões",
-      "text": "Executamos ajustes e lubrificação nas estruturas de portões para garantir um movimento suave e prolongar a durabilidade das peças."
+      "name": "Personalização de Móveis",
+      "text": "Oferecemos serviços de personalização para que seus móveis fiquem exatamente como você deseja."
     },
     {
       "icon": "fa fa-wrench",
-      "name": "Substituição de Acessórios",
-      "text": "Substituímos acessórios danificados por novos."
+      "name": "Substituição de Componentes",
+      "text": "Substituímos peças danificadas para prolongar a vida útil dos seus móveis."
     },
     {
       "icon": "fa fa-wrench",
-      "name": "Manutenção de Mecanismos",
-      "text": "Ajustamos mecanismos para funcionamento suave e seguro."
+      "name": "Manutenção Preventiva",
+      "text": "Realizamos manutenção regular para garantir que seus móveis permaneçam em ótimo estado."
     },
     {
       "icon": "fa fa-wrench",
-      "name": "Reparo de Fechaduras",
-      "text": "Recondicionamos fechaduras para maior segurança."
+      "name": "Consultoria de Estilo",
+      "text": "Oferecemos consultoria para ajudá-lo a escolher os melhores móveis para o seu espaço."
     }
-
   ],
   "Team": [
     {
       "img": "img/team/person.webp",
       "name": "John Doe",
-      "job": "Director"
+      "job": "Diretor"
     },
     {
       "img": "img/team/person.webp",
       "name": "Mike Doe",
-      "job": "Senior Designer"
+      "job": "Designer de Interiores"
     },
     {
       "img": "img/team/person.webp",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "Arquiteta"
     },
     {
       "img": "img/team/person.webp",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "Gerente de Projetos"
     }
   ],
   "Contact": {
-    "address": "Av. Professor Oscar Campiglia, 236 - PQ.Ypê-SP",
+    "address": "Av. -SP",
     "phone": "11 98571-0398",
-    "email": "info@company.com",
-    "facebook": "LBR.COM",
-    "twitter": "LBR.COM",
-    "youtube": "LBR.COM"
+    "email": "info@moveisparana.com",
+    "facebook": "moveisparana",
+    "twitter": "moveisparana",
+    "youtube": "moveisparana"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
       "title": "Atendimento Personalizado",
-      "text": "Oferecemos uma consultoria personalizada para cada cliente, explicando de forma clara o que seu Portão precisa."
+      "text": "Oferecemos consultoria personalizada para cada cliente, explicando de forma clara o que seus móveis precisam."
     },
     {
       "icon": "fa fa-bullhorn",
@@ -112,12 +111,12 @@
     {
       "icon": "fa fa-group",
       "title": "Soluções em Equipe",
-      "text": "Nossa equipe trabalha junta para garantir que seu Portão receba o melhor serviço possível."
+      "text": "Nossa equipe trabalha junta para garantir que seus móveis recebam o melhor serviço possível."
     },
     {
       "icon": "fa fa-magic",
       "title": "Resultados Rápidos e Eficientes",
-      "text": "Aplicamos soluções rápidas e eficazes para que seu Portão funcione como novo em pouco tempo."
+      "text": "Aplicamos soluções rápidas e eficazes para que seus móveis estejam prontos em pouco tempo."
     }
   ]
 }
